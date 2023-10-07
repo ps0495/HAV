@@ -33,15 +33,17 @@
 				<adlcp:location>metadata.xml</adlcp:location> 
 			</metadata>
 			
-			<file href="ar/326780.mp3"/>
+			<file href="ar/185602.mp3"/>
 		    <file href="index_scorm.html"/>
 			<file href="scormdriver.js"/>
 			<file href="browsersniff.js"/>
 			
+<file href="ar/326780.mp3"/> 
 <file href="ar/326789.mp3"/> 
 <file href="ar/327335.mp3"/> 
 <file href="ar/330379.mp3"/> 
 <file href="ar/330382.mp3"/> 
+<file href="ar/330387.mp3"/> 
 <file href="ar/330392.mp3"/> 
 <file href="assets/TOC_icons/collapseIcon.png"/> 
 <file href="assets/TOC_icons/expandIcon.png"/> 
@@ -198,17 +200,31 @@
 <file href="dr/img1.json"/> 
 <file href="dr/img2.json"/> 
 <file href="dr/img3.json"/> 
+<file href="dr/img4.json"/> 
 <file href="dr/imgmd.json"/> 
 <file href="dr/loading.gif"/> 
 <file href="goodbye.html"/> 
 <file href="index_scorm.html"/> 
 <file href="project.txt"/> 
+<file href="wor/wo_186023/Aa.html"/> 
+<file href="wor/wo_186023/Aa_edge.js"/> 
+<file href="wor/wo_186023/Aa_oam.xml"/> 
+<file href="wor/wo_186023/edge_includes/edge.6.0.0.min.js"/> 
+<file href="wor/wo_186023/images/Aa01.png"/> 
+<file href="wor/wo_186023/images/Aa02a.png"/> 
+<file href="wor/wo_186023/images/Poster.png"/> 
+<file href="wor/wo_186023/images/icon.png"/> 
 <file href="wor/wo_323617/data.html"/> 
 <file href="wor/wo_323617/images/img_0.png"/> 
 <file href="wor/wo_323637/data.html"/> 
 <file href="wor/wo_323637/images/aud_0.mp3"/> 
 <file href="wor/wo_323637/images/img_0.png"/> 
 <file href="wor/wo_323637/images/img_1.png"/> 
+<file href="wor/wo_323647/data.html"/> 
+<file href="wor/wo_323647/images/img_0.png"/> 
+<file href="wor/wo_323647/images/img_1.png"/> 
+<file href="wor/wo_323647/images/img_2.png"/> 
+<file href="wor/wo_323647/images/img_3.png"/> 
 <file href="wor/wo_325177/data.html"/> 
 <file href="wor/wo_325177/images/aud_0.mp3"/> 
 <file href="wor/wo_325177/images/img_0.png"/> 
@@ -237,10 +253,19 @@
 <file href="wor/wo_327508/images/img_7.png"/> 
 <file href="wor/wo_327508/images/img_8.png"/> 
 <file href="wor/wo_327508/images/img_9.png"/> 
+<file href="wor/wo_327528/data.html"/> 
+<file href="wor/wo_327528/images/aud_0.mp3"/> 
+<file href="wor/wo_327528/images/img_0.png"/> 
 <file href="wor/wo_327575/data.html"/> 
 <file href="wor/wo_327575/images/img_0.png"/> 
 <file href="wor/wo_327575/images/img_1.png"/> 
 <file href="wor/wo_327575/images/img_2.png"/> 
+<file href="wor/wo_332182/data.html"/> 
+<file href="wor/wo_332182/images/img_0.png"/> 
+<file href="wor/wo_332182/images/img_1.png"/> 
+<file href="wor/wo_332182/images/img_2.png"/> 
+<file href="wor/wo_332182/images/img_3.png"/> 
+<file href="wor/wo_332182/images/img_4.png"/> 
 <file href="wor/wo_332202/data.html"/> 
 <file href="wor/wo_332202/images/img_0.png"/> 
 <file href="wor/wo_332202/images/img_1.png"/> 
@@ -278,6 +303,21 @@
 <file href="wor/wo_332356/data.html"/> 
 <file href="wor/wo_332356/images/img_0.png"/> 
 <file href="wor/wo_332356/images/img_1.png"/> 
+<file href="wor/wo_39299/edge_includes/edge.5.0.1.min.js"/> 
+<file href="wor/wo_39299/flick logo animation.html"/> 
+<file href="wor/wo_39299/flick logo animation_edge.js"/> 
+<file href="wor/wo_39299/flick logo animation_oam.xml"/> 
+<file href="wor/wo_39299/images/Poster.png"/> 
+<file href="wor/wo_39299/images/lamp.png"/> 
+<file href="wor/wo_39299/images/lamp2.png"/> 
+<file href="wor/wo_39299/images/lick.png"/> 
+<file href="wor/wo_39299/images/lick2.png"/> 
+<file href="wor/wo_39299/images/logo-master-color.png"/> 
+<file href="wor/wo_39299/images/logo-master-mono-white-green.png"/> 
+<file href="wor/wo_39299/media/Audio_Flick.wav"/> 
+<file href="wor/wo_39299/media/Audio_Flickreduced noise.wav"/> 
+<file href="wor/wo_39299/media/audio.wav"/> 
+<file href="wor/wo_39299/transparent.png"/> 
 <file href="Utilities.js"/> 
 		</resource>
 	</resources>
